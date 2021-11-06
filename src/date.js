@@ -40,6 +40,6 @@ var betterdates = {
   },
   millisecond: {
     string: String(d.getMilliseconds()),// Work on merging with betterdates.hour
-    num: d.getMilliseconds,
+    num: d.getMilliseconds(),
   },
 };
